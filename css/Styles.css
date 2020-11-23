@@ -1,0 +1,105 @@
+body{
+    background-color: royalblue;
+}
+
+.corpo1{
+    width: 1000px;
+    margin: auto;
+}
+
+.conteudo{
+    display: table;
+}
+
+.imagem1{
+    display: table-cell;
+    float: left;
+}
+
+.texto1{
+    display: table-cell;
+    float: left;
+    width: 300px;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+.conteudo2{
+    display: table;
+}
+
+.imagem2{
+    display: table-cell;
+    float: left;
+}
+
+.texto2{
+    display: table-cell;
+    float: left;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.conteudo3{
+    display: table;
+}
+
+.imagem3{
+    display: table-cell;
+    float: left;
+}
+
+.texto3{
+    display: table-cell;
+    float: left;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.clear{
+    clear: both;
+}
+
+.conteudo4{
+    display: table;
+}
+
+.imagem4{
+    display: table-cell;
+    float: left;
+}
+
+.texto4{
+    display: table-cell;
+    float: left;
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.conteudo5{
+    display: table;
+}
+
+.imagem5{
+    display: table-cell;
+    float: left;
+}
+
+.texto5{
+    display: table-cell;
+    float: left;
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.place {
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    border-color: #CCC #999 #999 #CCC;
+    margin-bottom: 20px;
+    padding: 10px;
+    }
